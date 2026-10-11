@@ -1,0 +1,8 @@
+.git
+.DS_Store
+.original_images_backup/
+sync_all.py
+update_videos.py
+*.py
+*.pyc
+__pycache__/
